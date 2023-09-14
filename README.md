@@ -16,7 +16,7 @@
 </div>
 
 
-## MERN Stack Group Expense Splitting Application
+## MERN Stack Quiz Application
 
   * [Introduction](#introduction)
   * [Key Features](#key-features)
