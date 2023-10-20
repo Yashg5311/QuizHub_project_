@@ -84,6 +84,7 @@ administrators.
 - Admin can add question , search reports.
 - Used Antd library in React.
 - Used Redux for State Management
+- Delpoyed on Render.
 
 
 ## Technologies used
